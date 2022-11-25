@@ -14,10 +14,10 @@ jops:
 
     steps: 
       - name: 'new git action'
-      - run: pwd
+        run: pwd
 
       - name: 'print name'
-      - run: echo Amr
+        run: echo Amr
 
     
     

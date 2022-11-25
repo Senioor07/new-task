@@ -1,1 +1,24 @@
+on:
+  push:
+    banches:
+      - master1
+      
+
+
+
+jops:
+  build:
+    runs-on: ubuntu-latest
+
+
+
+    steps: 
+      - name: 'new git action'
+      - run: pwd
+
+      - name: 'print name'
+      - run: echo Amr
+
+    
+    
 

@@ -18,7 +18,3 @@ jops:
 
       - name: 'print name'
         run: echo Amr
-
-    
-    
-
